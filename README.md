@@ -1,4 +1,4 @@
-# python-basics
+# Python Basics : A Refresher
 A list of basic python problem statements and their solutions!
 
 # Problems
